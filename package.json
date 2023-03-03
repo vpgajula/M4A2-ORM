@@ -1,0 +1,19 @@
+{
+  "name": "m4a2-orm",
+  "version": "1.0.0",
+  "description": "M4A2-Object Relational Mapping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpgajula/M4A2-ORM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vpgajula/M4A2-ORM/issues"
+  },
+  "homepage": "https://github.com/vpgajula/M4A2-ORM#readme"
+}
